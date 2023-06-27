@@ -3327,3 +3327,7 @@ details-disclosure > details {
 .header {
     background: purple;
 }
+
+.header__menu-item {
+  color: #fff;
+}
